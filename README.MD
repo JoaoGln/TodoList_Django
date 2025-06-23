@@ -11,7 +11,7 @@ O projeto cumpre com todos os requisitos obrigatórios:
 * **Editar Tarefas:** Permite que o usuário modifique o título e o status (concluída ou não) de uma tarefa existente.
 * **Atualizar Tarefas:** As edições são salvas e refletidas no banco de dados e na interface.
 * **Deletar Tarefas:** O usuário pode remover permanentemente uma tarefa da lista.
-* **Interface Agradável:** A interface foi estilizada com **Bootstrap** [cite: 8][cite_start], garantindo uma experiência de uso clara e organizada em diferentes dispositivos.
+* **Interface Agradável:** A interface foi estilizada com **Bootstrap**, garantindo uma experiência de uso clara e organizada em diferentes dispositivos.
 
 ---
 
@@ -19,7 +19,7 @@ O projeto cumpre com todos os requisitos obrigatórios:
 
 * **Backend:** Python 3, Django 4+
 * **Frontend:** HTML5, CSS3, Bootstrap 5 
-* **Banco de Dados:** SQLite 3 (padrão de desenvolvimento do Django)
+* **Banco de Dados:** SQLite 3
 * **Controle de Versão:** Git & GitHub
 
 ---
