@@ -1,0 +1,50 @@
+# Arquivo .gitignore para projetos Django
+
+# Ambiente Virtual
+# Nunca adicione seu ambiente virtual ao Git.
+venv/
+env/
+.venv/
+*/activate
+
+# Arquivos de Cache e Bytecode do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Banco de Dados
+# O banco de dados de desenvolvimento não deve ser versionado.
+db.sqlite3
+*.sqlite3
+
+# Arquivos de Configuração Local e Segredos
+# Mantenha suas chaves secretas e configurações locais fora do Git.
+.env
+local_settings.py
+secret_key.txt
+
+# Arquivos Estáticos e de Mídia
+# Gerados pelo comando collectstatic ou uploads de usuários.
+staticfiles/
+media/
+
+# Arquivos de IDE e Editores de Código
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Arquivos de Sistema Operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Arquivos de distribuição/build do Python
+/dist/
+/build/
+*.egg-info/
