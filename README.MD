@@ -1,24 +1,24 @@
 # Projeto: Lista de Tarefas (Todo List) com Django
 
-[cite_start]Este é um projeto de uma aplicação web de Lista de Tarefas (Todo List) desenvolvido como parte da avaliação de aprendizado. A aplicação permite ao usuário gerenciar suas tarefas diárias de forma simples e intuitiva.
+Este é um projeto de uma aplicação web de Lista de Tarefas (Todo List) desenvolvido como parte da avaliação de aprendizado. A aplicação permite ao usuário gerenciar suas tarefas diárias de forma simples e intuitiva.
 
 ## Funcionalidades Implementadas
 
-[cite_start]O projeto cumpre com todos os requisitos obrigatórios:
+O projeto cumpre com todos os requisitos obrigatórios:
 
-* [cite_start]**Adicionar Novas Tarefas:** Funcionalidade implementada para que o usuário possa inserir novas tarefas na lista.
+* **Adicionar Novas Tarefas:** Funcionalidade implementada para que o usuário possa inserir novas tarefas na lista.
 * **Visualizar Todas as Tarefas:** A página principal exibe todas as tarefas pendentes e concluídas.
-* [cite_start]**Editar Tarefas:** Permite que o usuário modifique o título e o status (concluída ou não) de uma tarefa existente.
-* [cite_start]**Atualizar Tarefas:** As edições são salvas e refletidas no banco de dados e na interface.
-* [cite_start]**Deletar Tarefas:** O usuário pode remover permanentemente uma tarefa da lista.
-* [cite_start]**Interface Agradável:** A interface foi estilizada com **Bootstrap** [cite: 8][cite_start], garantindo uma experiência de uso clara e organizada em diferentes dispositivos.
+* **Editar Tarefas:** Permite que o usuário modifique o título e o status (concluída ou não) de uma tarefa existente.
+* **Atualizar Tarefas:** As edições são salvas e refletidas no banco de dados e na interface.
+* **Deletar Tarefas:** O usuário pode remover permanentemente uma tarefa da lista.
+* **Interface Agradável:** A interface foi estilizada com **Bootstrap** [cite: 8][cite_start], garantindo uma experiência de uso clara e organizada em diferentes dispositivos.
 
 ---
 
 ## Tecnologias Utilizadas
 
 * **Backend:** Python 3, Django 4+
-* [cite_start]**Frontend:** HTML5, CSS3, Bootstrap 5 
+* rontend:** HTML5, CSS3, Bootstrap 5 
 * **Banco de Dados:** SQLite 3 (padrão de desenvolvimento do Django)
 * **Controle de Versão:** Git & GitHub
 
@@ -77,4 +77,4 @@ Siga as instruções abaixo para rodar o projeto em sua máquina.
 
 ## Autor
 
-**[João Gabriel Leite Neirelli]**
+**João Gabriel Leite Neirelli**
