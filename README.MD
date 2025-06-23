@@ -18,7 +18,7 @@ O projeto cumpre com todos os requisitos obrigatórios:
 ## Tecnologias Utilizadas
 
 * **Backend:** Python 3, Django 4+
-* rontend:** HTML5, CSS3, Bootstrap 5 
+* **Frontend:** HTML5, CSS3, Bootstrap 5 
 * **Banco de Dados:** SQLite 3 (padrão de desenvolvimento do Django)
 * **Controle de Versão:** Git & GitHub
 
